@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(Imagenes/fondo.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+table,thead,tr,th,td{
+    border:solid black 1px;
+}
+
